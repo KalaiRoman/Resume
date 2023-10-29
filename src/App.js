@@ -37,9 +37,7 @@ function App() {
 
   return (
     <div className="main-card">
-      <div className='message-card'>
-        {scrollPositiontrue && <img src={thankyou} alt="no image" className='image-person' />}
-      </div>
+      
 
       <div className='back-image'>
         <img src={group} alt="no image" className='back-image-app' />
