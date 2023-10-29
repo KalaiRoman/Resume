@@ -1,0 +1,104 @@
+@use "../../../../sass/abstract/" as *;
+
+.sectino1-main {
+    // border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 210px;
+    .image-card-section1 {
+        width: 200px;
+        height: 200px;
+        // border: 3px solid orange;
+        border-radius: 50%;
+        background-color: #d7ffcd;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .image-card {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+        }
+    }
+}
+
+.contact-lists {
+    width: 100%;
+    display: flex;
+    // align-items: center;
+    gap: 10px;
+}
+
+.left-move {
+    padding-left: 3%;
+    cursor: pointer;
+    color: #595959;
+    font-weight: 550;
+}
+
+// edutcation
+
+
+.skill-section1
+{
+    background-color: white;
+    border-radius: 10px;
+    width: 95%;
+    margin: 0 auto;
+    padding: 6px 20px;
+}
+
+.skill-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #ECF2FB;
+    border-radius: 10px;
+    cursor: pointer;
+    gap: 2px;
+    padding: 10px 0px;
+    // color: #2f327d;
+    // color: white
+    font-weight: 550;
+    position: relative;
+    .image-section-skill-card {
+        position: absolute;
+        width: 23px;
+        height: 23px;
+        // background-color: #f48c06;
+        right: -5px;
+        top: -10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        padding: 4px;
+        color: white;
+    }
+}
+
+.skill-card:hover {
+    background-color: #4ee381;
+    color: white;
+}
+
+
+.tick {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    border-radius: 50%;
+}
+
+// contactr
+
+.contact-details-section1 {
+    background-color: white;
+    border-radius: 10px;
+    width: 95%;
+    margin: 0 auto;
+    padding: 6px 20px;
+}

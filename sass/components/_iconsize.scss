@@ -1,0 +1,141 @@
+@use "../abstract" as *;
+.icon-size {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  cursor: pointer;
+}
+
+.icon-sizes {
+  width: 44px;
+  height: 44px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+.icon-sizes-small {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.eyeicon {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+.lmslogo {
+  width: 98px;
+  height: 50px;
+  object-fit: contain;
+  // border: 1px solid red;
+}
+.lmslogomobile {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  cursor: pointer;
+}
+
+.otp-icon {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.otp-icon-edit {
+  width: 12px;
+  height: 12px;
+  cursor: pointer;
+  object-fit: contain;
+}
+
+.profile-image-icon {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #e81402;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.cart-logo {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.refer-logo {
+  width: 130px;
+  height: 99px;
+  cursor: pointer;
+  object-fit: contain;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @include lgBreakPoint {
+    width: 120px;
+    height: 99px;
+  }
+}
+
+.course-image-box {
+  // border: 3px solid blue;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+}
+
+.coupon-logo-size {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  object-fit: contain;
+}
+
+.fa-bars {
+  // width: 100%;
+  // height: 100%;
+  cursor: pointer;
+  object-fit: contain;
+}
+
+.dahboard-icons {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  object-fit: contain;
+}
+
+.course-images {
+  // border-bottom-left-radius: 12px;
+  // border-bottom-right-radius: 12px;
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+}
+
+.bannerimage {
+  width: 100%;
+  height: 200x;
+  object-fit: cover;
+  cursor: pointer;
+  border-radius: 10px;
+  @include xsBreakPoint {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.no-image {
+  width: 400px;
+  height: 300px;
+  object-fit: contain;
+  cursor: pointer;
+}

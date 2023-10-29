@@ -1,0 +1,78 @@
+@use "../abstract" as *;
+
+//card in course
+
+//card active
+
+.cardactive {
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  height: auto;
+  width: 25%;
+  margin-bottom: 40px;
+
+  cursor: pointer;
+  @include xsBreakPoint {
+    width: 40%;
+  }
+  @include mdBreakPoint {
+    height: 59vh;
+  }
+  @include lgBreakPoint {
+    width: 30%;
+  }
+  @include xlBreakPoint {
+    width: 26%;
+  }
+}
+
+//buy course
+
+.buycardactive {
+  border: 1px solid #263468;
+
+  border-radius: 8px;
+  margin: 10px auto;
+  padding: 20px 20px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+}
+.buycardinactive {
+  //   border: 1px solid #263468;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 8px;
+  margin: 10px auto;
+  padding: 20px 20px;
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+.suggestcard {
+  display: flex;
+  margin: 0 auto;
+  //   height: 10vh;
+  border-radius: 8px;
+  margin-top: 10px;
+  //   justify-content: space-between;
+  gap: 20px;
+  width: 100%;
+  border: 1px solid grey;
+}
+
+
+
+.cardactives {
+  width: 24.5% !important;
+  border: 1px solid #e5e5e5;
+  padding: 0 !important;
+  border-radius: 10px;
+  height: auto;
+  @include xsBreakPoint {
+    width: 100% !important;
+  }
+  @include smBreakPoint {
+    width: 49.6% !important;
+  }
+}

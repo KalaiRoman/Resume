@@ -1,0 +1,54 @@
+@use "../abstract/" as *;
+
+// large text
+
+.common-text {
+    font-size: 1.5rem;
+    font-weight: 500;
+    // color: #2f327d;
+    // color: white;
+    background-color: #fdf0f0;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.medium-text {
+    font-size: 1rem;
+    font-weight: 550;
+    color: #f48c06;
+}
+.year-text {
+    color: #113c49;
+    font-weight: 600;
+}
+
+.college-text {
+    color: #696984;
+    font-weight: 450;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.common-texts {
+    font-size: 1.7rem;
+    font-weight: 500;
+    border-radius: 10px;
+    padding-left: 2%;
+    color: #2f327d;
+}
+
+.borders {
+    border-top: 1px solid #f48c06;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.light-text
+{
+    color: #595959 !important;
+    font-weight: 550 !important;
+}
