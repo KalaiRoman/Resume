@@ -1,7 +1,6 @@
 import React from 'react'
 import './styles/Section1.scss';
 import { Col, Row } from 'react-bootstrap';
-import mark from '../../assests/Group 11.png';
 function Section1() {
   return (
     <>
