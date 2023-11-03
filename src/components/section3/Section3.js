@@ -211,10 +211,12 @@ function Section3() {
                 <div className='medium-text ms-4'>
                     Kridas (Mobile App)
                 </div>
-                
+
                 <div className='medium-text ms-4 mb-5'>
                     Crofit (Mobile App)
                 </div>
+
+
             </div>
         </div>
     )

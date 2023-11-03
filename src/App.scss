@@ -23,15 +23,17 @@
         box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
         border-radius: 10px;
         z-index: 989898 !important;
-        @include xsBreakPoint
-        {
+        @include xsBreakPoint {
             flex-direction: column;
             width: 97%;
         }
-        @include smBreakPoint
-        {
+        @include smBreakPoint {
             flex-direction: column;
             width: 97%;
+        }
+
+        @include mdBreakPoint {
+            width: 95%;
         }
 
         @include lgBreakPoint {
@@ -42,24 +44,20 @@
             background-color: #fff2e1;
             border-radius: 10px;
             z-index: 989898 !important;
-            @include xsBreakPoint
-            {
+            @include xsBreakPoint {
                 width: 100%;
             }
-            @include smBreakPoint
-            {
+            @include smBreakPoint {
                 width: 100%;
             }
         }
         .right-card {
             width: 64%;
             z-index: 989898 !important;
-            @include xsBreakPoint
-            {
+            @include xsBreakPoint {
                 width: 100%;
             }
-            @include smBreakPoint
-            {
+            @include smBreakPoint {
                 width: 100%;
             }
         }
@@ -151,8 +149,7 @@
     object-fit: contain;
     position: absolute;
     right: -2%;
-    top:25%;
-
+    top: 25%;
 }
 @keyframes first {
     0% {
@@ -176,4 +173,10 @@
     100% {
         transform: translateY(0px);
     }
+}
+
+
+.common-textss
+{
+    word-break: break-all;
 }

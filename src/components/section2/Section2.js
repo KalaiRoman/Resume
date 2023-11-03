@@ -4,18 +4,19 @@ import Section3 from '../section3/Section3';
 function Section2() {
     return (
         <>
-            <div className='section2-main'>
+            <div className='d-none d-md-block'>
+                <div className='section2-main'>
 
-                <div className='name'>
-                    KALAISURYA
+                    <div className='name'>
+                        KALAISURYA
+                    </div>
+                    <div className='domain-name'>
+                        Frontend Developer
+                    </div>
                 </div>
-                <div className='domain-name'>
-                    Frontend Developer
+
+                <div className='borders'>
                 </div>
-            </div>
-
-            <div className='borders'>
-
             </div>
 
             <div className='mt-3'>
