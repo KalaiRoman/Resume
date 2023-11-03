@@ -12,7 +12,14 @@
         font-size: 3.5rem;
     }
     .domain-name {
-        font-size: 1.2rem;
+        font-size: 1.4rem;
+        display: flex;
+        gap:10px;
+        @include xsBreakPoint
+        {
+            flex-direction: column;
+            align-items: center;
+        }
     }
 }
 

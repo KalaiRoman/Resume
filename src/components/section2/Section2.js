@@ -1,7 +1,18 @@
 import React from 'react'
 import './styles/Section2.scss';
 import Section3 from '../section3/Section3';
+import { Typewriter } from 'react-simple-typewriter'
+
 function Section2() {
+    const handleType = (count) => {
+        // access word count number
+        console.log(count)
+    }
+
+
+    const handleDone = () => {
+        console.log(`Done after 5 loops!`)
+    }
     return (
         <>
             <div className='d-none d-md-block'>
@@ -10,8 +21,23 @@ function Section2() {
                     <div className='name'>
                         KALAISURYA
                     </div>
-                    <div className='domain-name'>
-                        Frontend Developer
+                    <div className='domain-name '>
+                        Frontend Developer 
+                        <span style={{ color: 'orange', fontWeight: 'bold' }}>(
+
+                            <Typewriter
+                                words={['Reactjs 😃', 'Nextjs 😃', 'ReactNative 😃', 'Nodejs 😃']}
+                                loop={5}
+                                cursor
+                                cursorStyle='_'
+                                typeSpeed={70}
+                                deleteSpeed={50}
+                                delaySpeed={1000}
+                                onLoopDone={handleDone}
+                                onType={handleType}
+                            /> )
+                        </span>
+
                     </div>
                 </div>
 
