@@ -294,6 +294,58 @@ function Section1() {
               </Col> */}
             </Row>
           </div>
+
+
+        </div>
+
+        <div className='contact-details-section1 mt-5 mb-5'>
+          <div className='common-text mb-4 mt-3'>
+            Languages
+          </div>
+          <div className='mt-3 '>
+            <div className='contact-lists'>
+              <div>
+                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512z" /></svg>
+              </div>
+              <div>
+                <div className='mb-2 college-text'>
+                  English
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+          <div className='mt-3 '>
+            <div className='contact-lists'>
+              <div>
+                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512z" /></svg>
+              </div>
+              <div>
+                <div className='mb-2 college-text'>
+                  Tamil
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+          <div className='mt-3 '>
+            <div className='contact-lists'>
+              <div>
+                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512z" /></svg>
+              </div>
+              <div>
+                <div className='mb-2 college-text'>
+                 Telungu
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+
+
         </div>
       </div>
     </>

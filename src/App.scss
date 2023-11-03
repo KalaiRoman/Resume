@@ -23,6 +23,16 @@
         box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
         border-radius: 10px;
         z-index: 989898 !important;
+        @include xsBreakPoint
+        {
+            flex-direction: column;
+            width: 97%;
+        }
+        @include smBreakPoint
+        {
+            flex-direction: column;
+            width: 97%;
+        }
 
         @include lgBreakPoint {
             width: 90%;
@@ -32,10 +42,26 @@
             background-color: #fff2e1;
             border-radius: 10px;
             z-index: 989898 !important;
+            @include xsBreakPoint
+            {
+                width: 100%;
+            }
+            @include smBreakPoint
+            {
+                width: 100%;
+            }
         }
         .right-card {
             width: 64%;
             z-index: 989898 !important;
+            @include xsBreakPoint
+            {
+                width: 100%;
+            }
+            @include smBreakPoint
+            {
+                width: 100%;
+            }
         }
     }
     .message-card {
