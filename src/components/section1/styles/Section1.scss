@@ -9,9 +9,9 @@
     .image-card-section1 {
         width: 200px;
         height: 200px;
-        // border: 3px solid orange;
+
         border-radius: 50%;
-        background-color: #d7ffcd;
+        background-color: #33efa0;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -20,6 +20,7 @@
             width: 180px;
             height: 180px;
             border-radius: 50%;
+            object-fit: cover;
         }
     }
 }

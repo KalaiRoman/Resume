@@ -43,9 +43,9 @@ function Section1() {
         <div className='borders'>
         </div>
       </div>
-      <div className='sectino1-main'>
+      <div className='sectino1-main mt-2'>
         <div className='image-card-section1'>
-          <img src="https://picsum.photos/200/300" alt="no image" className='image-card' />
+          <img src="https://static-cdn.icons8.com/l/3d/images/cu2_thumb_up_man_1_close-up.webp" alt="no image" className='image-card' />
         </div>
 
       </div>
