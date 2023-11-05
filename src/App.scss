@@ -14,8 +14,7 @@
     height: 100%;
     position: relative;
     padding-bottom: 5%;
-    @include xsBreakPoint
-    {
+    @include xsBreakPoint {
         overflow-x: hidden;
     }
 

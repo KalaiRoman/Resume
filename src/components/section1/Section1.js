@@ -81,7 +81,7 @@ function Section1() {
 
               </div>
               <div className='mt-1'>
-                Chennai
+                Chennai, India
               </div>
             </div>
           </div>
@@ -100,7 +100,7 @@ function Section1() {
               </div>
               <div>
                 <div className='medium-text mb-2'>
-                  Master of Computer Application
+                  Master of Computer Application ( MCA )
                 </div>
                 <div className='mb-2 college-text'>
                   Karpagam Academy Of Higher Education
@@ -121,7 +121,7 @@ function Section1() {
               </div>
               <div>
                 <div className='medium-text mb-2'>
-                  Bachelor  of Computer Application
+                  Bachelor  of Computer Application ( BCA )
                 </div>
                 <div className='mb-2 college-text'>
                   Sri Vidya Mandir Arts & Science College
