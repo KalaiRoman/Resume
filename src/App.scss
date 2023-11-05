@@ -40,6 +40,9 @@
         @include lgBreakPoint {
             width: 90%;
         }
+        @include xlBreakPoint {
+            width: 85%;
+        }
         .left-card {
             width: 36%;
             background-color: #fff2e1;

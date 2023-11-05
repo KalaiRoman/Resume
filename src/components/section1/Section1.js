@@ -22,21 +22,21 @@ function Section1() {
             KALAISURYA
           </div>
           <div className='domain-name'>
-            Frontend Developer 
+            Frontend Developer
             <span style={{ color: 'orange', fontWeight: 'bold' }}>(
 
-<Typewriter
-    words={['Reactjs 😃', 'Nextjs 😃', 'ReactNative 😃', 'Nodejs 😃']}
-    loop={5}
-    cursor
-    cursorStyle='_'
-    typeSpeed={70}
-    deleteSpeed={50}
-    delaySpeed={1000}
-    onLoopDone={handleDone}
-    onType={handleType}
-/> )
-</span>
+              <Typewriter
+                words={['Reactjs 😃', 'Nextjs 😃', 'ReactNative 😃', 'Nodejs 😃']}
+                loop={5}
+                cursor
+                cursorStyle='_'
+                typeSpeed={70}
+                deleteSpeed={50}
+                delaySpeed={1000}
+                onLoopDone={handleDone}
+                onType={handleType}
+              /> )
+            </span>
           </div>
         </div>
 

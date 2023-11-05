@@ -6,142 +6,173 @@ function Section3() {
             <div className='common-texts mb-2'>
                 Work Experience
             </div>
+
+
+            <div>
+
+                <div className='content-experience mt-3 mb-3'>
+                    <div className='dotts'>
+                    </div>
+                    <div className='right-experience'>
+                        Led the front-end development of multiple projects, implementing modern UI/UX practices with React.js.
+
+
+                    </div>
+                </div>
+
+                <div className='content-experience mt-3 mb-3'>
+                    <div className='dotts'>
+                    </div>
+                    <div className='right-experience'>
+                        Collaborated closely with designers and back-end developers to ensure seamless integration of user interfaces with APIs.
+
+
+
+                    </div>
+                </div>
+
+                <div className='content-experience mt-3 mb-3'>
+                    <div className='dotts'>
+                    </div>
+                    <div className='right-experience'>
+                        Optimized and refactored codebase for performance improvements, resulting in a 30% reduction in page load times.
+
+
+
+
+                    </div>
+                </div>
+                <div className='content-experience mt-3 mb-3'>
+                    <div className='dotts'>
+                    </div>
+                    <div className='right-experience'>
+                        Implemented responsive designs, making applications accessible on various devices and screen sizes.
+
+
+
+
+
+                    </div>
+                </div>
+
+                <div className='content-experience mt-3 mb-3'>
+                    <div className='dotts'>
+                    </div>
+                    <div className='right-experience'>
+                        Conducted code reviews and mentored junior developers, fostering a culture of best practices and code quality.
+
+                    </div>
+                </div>
+            </div>
+
+
+            <div className='common-texts mb-3 mt-4'>
+                Projects
+            </div>
             <div>
                 <div className='medium-text ms-4'>
                     Womeyn E-Commerce <span className='light-text'>(Seller and End User)</span>
                 </div>
-                <div className='content-experience mt-3 mb-3'>
-                    <div className='dotts'>
-                    </div>
-                    <div className='right-experience'>
-                        Start by setting up a new Next.js and (Reactjs) project using the Next.js CLI or by initializing it manually.
-
-                    </div>
-                </div>
-                <div className='content-experience mt-3 mb-3'>
-                    <div className='dotts'>
-
-                    </div>
-                    <div className='right-experience'>
-                        Organize your project structure with folders for pages, components, styles, and API routes.
-
-                    </div>
-                </div>
-                <div className='content-experience mt-3 mb-3'>
-                    <div className='dotts'>
-
-                    </div>
-                    <div className='right-experience'>
-                        Define your project's dependencies in the package.json file, including Next.js, React, and any additional libraries you might need.
-
-                    </div>
-                </div>
-
-                <div className='content-experience mt-3 mb-3'>
-                    <div className='dotts'>
-
-                    </div>
-                    <div className='right-experience'>
-                        Design the user interface for the Womeyn e-commerce site. This includes creating components for product listings, product details, shopping cart, and user profiles,Utilize popular styling libraries like styled-components or SASS CSS to style your components and pages and then Responsive mobile design implemented.
-
-                    </div>
-                </div>
-
-                <div className='content-experience mt-3 mb-3'>
-                    <div className='dotts'>
-
-                    </div>
-                    <div className='right-experience'>
-                        Set up the routing structure for your e-commerce site using Next.js's built-in routing system. Create pages for product listings, product details, user profiles, and checkout.
-
-                    </div>
-                </div>
-
-                <div className='content-experience mt-3 mb-3'>
-                    <div className='dotts'>
-
-                    </div>
-                    <div className='right-experience'>
-                        Implement API routes to fetch product data from a backend Used for Nodejs or external APIs.
-
-                    </div>
-                </div>
-
-                <div className='content-experience mt-3 mb-3'>
-                    <div className='dotts'>
-
-                    </div>
-                    <div className='right-experience'>
-                        AWS to deploy your Next.js and (Reactjs) e-commerce project.
-                        Configure your deployment settings, environment variables, and CDN options to ensure optimal performance and security.
-
-                    </div>
-                </div>
-
-
-
 
 
                 <div className='content-experience mt-3 mb-3'>
                     <div className='dotts'>
-
                     </div>
                     <div className='right-experience'>
-                        To integrate PayPal and Stripe for payment,Create components for the payment process, such as a checkout form that allows users to enter their payment information.
-                        Implement handlers to send payment requests to the PayPal and Stripe APIs and process the responses.
+
+
+                        Technical Skills:
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Nextjs for ( End user in B2C ) and React.js for ( Seller ), JavaScript, HTML and Sass, Bootstrap, Responsive Web Design, State Management (ContextApi and Redux), Front-End Build Tools (Webpack), Version Control (Gitlab and Github), Unit and Integration Testing, SEO Optimization, Performance Optimization,
+
+                            </div>
+                        </div>
+
+
+
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                To integrate PayPal and Stripe for payment
+                            </div>
+                        </div>
+
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                To integrate Social Integaration for Google and Facebook and LinkedIn
+                            </div>
+                        </div>
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                To integrate Google Map Postal Code
+                            </div>
+                        </div>
+
+
+
                     </div>
                 </div>
-
-                <div className='content-experience mt-3 mb-3'>
-                    <div className='dotts'>
-
-                    </div>
-                    <div className='right-experience'>
-                        Implement OAuth integration to allow users to log in and register on your e-commerce site using social media or other identity providers.
-
-                    </div>
-                </div>
-
-
-                <div className='content-experience mt-3 mb-3'>
-                    <div className='dotts'>
-
-                    </div>
-                    <div className='right-experience'>
-                        Optimize your e-commerce site for SEO by setting up metadata, adding structured data for products, and creating a sitemap.
-                        Use Next.js's built-in features like next/head to manage metadata on a per-page basis and CICD Implemented in Auto deployment.
-
-                    </div>
-                </div>
-
-
-
-
-
-
 
                 <div className='medium-text ms-4'>
                     Womeyn Landing Page
                 </div>
 
-                <div className='content-experience mt-3 mb-3'>
-                    <div className='dotts'>
-                    </div>
-                    <div className='right-experience'>
-                        Developed a responsive and visually appealing landing page for Womeyn using React.js, HTML, and CSS.
-                        Create the necessary components, such as headers, sections, and footers, using React components.
-                        Utilize CSS or a CSS-in-JS solution to style your components and achieve the desired visual appearance.
-
-                    </div>
-                </div>
 
                 <div className='content-experience mt-3 mb-3'>
                     <div className='dotts'>
                     </div>
                     <div className='right-experience'>
-                        Ensure that your landing page is responsive to different screen sizes and devices. Use media queries to adjust the layout and styling as needed.
+
+
+                        Technical Skills:
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                React.js, JavaScript, HTML and Sass, Bootstrap, Responsive Web Design, Create the necessary components, such as headers, sections, and footers, using React components.
+                                Version Control (Github), Utilize CSS or a CSS-in-JS solution to style your components and achieve the desired visual appearance.
+                            </div>
+                        </div>
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                To integarate  Contact informations for Nodejs ( api ).
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+
+
                     </div>
                 </div>
+
+
                 <div className='medium-text ms-4'>
                     LMS (Learning Managent System)
                 </div>
@@ -153,32 +184,116 @@ function Section3() {
                     <div className='dotts'>
                     </div>
                     <div className='right-experience'>
+
+
                         Technical Skills:
 
-                        React.js,
-                        JavaScript,
-                        HTML5 and CSS3,
-                        Responsive Web Design,
-                        State Management (e.g., Redux),
-                        Front-End Build Tools (e.g., Webpack),
-                        Version Control (e.g., Gitlab),
-                        Unit and Integration Testing,
-                        SEO Optimization,
-                        Performance Optimization,
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                React.js for ( B2C ), JavaScript, HTML and Sass, Bootstrap, Responsive Web Design, State Management (Redux and Redux Toolkit), Front-End Build Tools (Webpack), Version Control (Github), Unit and Integration Testing, SEO Optimization, Performance Optimization,
+                                pages is responsive to different screen sizes and devices. Use media queries to adjust the layout and styling as needed.
+
+
+                            </div>
+                        </div>
+
+
+
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                To integrate RazorPay for payment
+                            </div>
+                        </div>
                     </div>
                 </div>
 
+
+
+                <div className='medium-text ms-4 '>
+                    Crofit (Mobile App)
+                </div>
 
                 <div className='content-experience mt-3 mb-3'>
                     <div className='dotts'>
                     </div>
                     <div className='right-experience'>
-                        Collaborated with a cross-functional team to design and develop a user-friendly and responsive B2C LMS using React.js.
-                        Utilized state management techniques (e.g., Redux) to create a seamless user experience with real-time data updates and user interactions.
-                        Implemented responsive web design to ensure optimal user experiences across various devices.
-                        Developed and maintained complex, interactive components, including course dashboards, quizzes, and progress trackers.
+
+
+                        Technical Skills:
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                React Native for (Mobile App), JavaScript, HTML , Responsive Web Design, State Management (ContextApi), Front-End Build Tools (Apollo Metro), Version Control (Gitlab), Unit and Integration Testing, Performance Optimization,
+
+                            </div>
+                        </div>
+
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                To integrate Api's in Graphql
+                            </div>
+                        </div>
+
+
+
                     </div>
                 </div>
+
+
+
+
+                <div className='medium-text ms-4 '>
+                    Kridas (Mobile App)
+                </div>
+
+                <div className='content-experience mt-3 mb-3'>
+                    <div className='dotts'>
+                    </div>
+                    <div className='right-experience'>
+
+
+                        Technical Skills:
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                React Native for (Mobile App), JavaScript, HTML ,typeScript, Responsive Web Design, State Management (ContextApi and Redux), Version Control (Gitlab), Unit and Integration Testing, Performance Optimization,
+
+                            </div>
+                        </div>
+
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                To integrate Api's in Nodejs and Social Share
+                            </div>
+                        </div>
+
+
+
+                    </div>
+                </div>
+
+
 
 
                 <div className='medium-text ms-4'>
@@ -188,35 +303,72 @@ function Section3() {
                     <div className='dotts'>
                     </div>
                     <div className='right-experience'>
-                        Developed a responsive and visually appealing landing page for PassionAIAri using React.js, HTML, and CSS.
-                        Create the necessary components, such as headers, sections, and footers, using React components.
-                        Utilize CSS or a CSS-in-JS solution to style your components and achieve the desired visual appearance.
+
+
+                        Technical Skills:
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                React.js, JavaScript, HTML and Sass, Bootstrap, Responsive Web Design, Create the necessary components, such as headers, sections, and footers, using React components.
+                                Version Control (Github), Utilize CSS or a CSS-in-JS solution to style your components and achieve the desired visual appearance.
+                                pages is responsive to different screen sizes and devices. Use media queries to adjust the layout and styling as needed.
+                            </div>
+                        </div>
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                To integarate Api's in ( Python ).
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+
 
                     </div>
+                </div>
+
+
+                <div className='medium-text ms-4'>
+                    Eternosoft Landing Page
                 </div>
 
                 <div className='content-experience mt-3 mb-3'>
                     <div className='dotts'>
                     </div>
                     <div className='right-experience'>
-                        Ensure that your landing page is responsive to different screen sizes and devices. Use media queries to adjust the layout and styling as needed.
+
+
+                        Technical Skills:
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                HTML and CSS, Bootstrap, Responsive Web Design, Create the necessary components, such as headers, sections, and footers, using React components.
+                                Version Control (Github), Utilize CSS or a CSS-in-JS solution to style your components and achieve the desired visual appearance.
+                                pages is responsive to different screen sizes and devices. Use media queries to adjust the layout and styling as needed.
+                            </div>
+                        </div>
+
+
+
                     </div>
                 </div>
-                <div className='medium-text ms-4'>
-                    Eternosoft Landing Page
-                </div>
-                <div className='medium-text ms-4'>
-                    Kridas (Web)
-                </div>
-                <div className='medium-text ms-4'>
-                    Kridas (Mobile App)
-                </div>
-
                 <div className='medium-text ms-4 mb-5'>
-                    Crofit (Mobile App)
+                    Kridas (Web) ......etc
                 </div>
-
-
             </div>
         </div>
     )

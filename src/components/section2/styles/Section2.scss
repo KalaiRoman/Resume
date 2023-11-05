@@ -30,4 +30,24 @@
     width: 100%;
     padding-left: 3%;
     line-height: 1.6;
+    @include xsBreakPoint
+    {
+        padding: 0px 20px;
+        line-height: 1.8;
+    }
+    @include smBreakPoint
+    {
+        padding: 0px 20px;
+        line-height: 1.8;
+    }
+    @include lgBreakPoint
+    {
+        padding: 0px 15px;
+        line-height: 1.8;
+    }
+    @include xlBreakPoint
+    {
+        padding: 0px 20px;
+        line-height: 1.8;
+    }
 }
