@@ -2,29 +2,72 @@ import React from 'react'
 import './styles/Section1.scss';
 import { Col, Row } from 'react-bootstrap';
 import { Typewriter } from 'react-simple-typewriter'
+import mark from '../../assests/Group 11.png'
+
+import nodejs from '../../assests/nodejs.png';
+import github from '../../assests/github.png';
+import Gitlab from '../../assests/gitlab.png';
+import vscode from '../../assests/vscode.png';
+import postman from '../../assests/postman.png';
+import android from '../../assests/android.png';
+import figma from '../../assests/figma.png';
+
+
 function Section1() {
   const handleType = (count) => {
-    // access word count number
-    console.log(count)
   }
-
 
   const handleDone = () => {
-    console.log(`Done after 5 loops!`)
   }
+
+  const images = [
+    {
+      id: 1,
+      image: vscode,
+
+    },
+    {
+      id: 2,
+      image: nodejs,
+
+    },
+    {
+      id: 3,
+      image: postman,
+
+    },
+    {
+      id: 4,
+      image: github,
+
+    },
+    {
+      id: 5,
+      image: figma,
+
+    },
+    {
+      id: 6,
+      image: Gitlab,
+
+    },
+    {
+      id: 7,
+      image: android,
+
+    }
+  ]
   return (
     <>
 
       <div className='d-block d-md-none'>
         <div className='section2-main'>
-
           <div className='name'>
             KALAISURYA
           </div>
           <div className='domain-name'>
             Frontend Developer
             <span style={{ color: 'orange', fontWeight: 'bold' }}>(
-
               <Typewriter
                 words={['Reactjs 😃', 'Nextjs 😃', 'ReactNative 😃', 'Nodejs 😃']}
                 loop={5}
@@ -39,7 +82,6 @@ function Section1() {
             </span>
           </div>
         </div>
-
         <div className='borders'>
         </div>
       </div>
@@ -47,7 +89,6 @@ function Section1() {
         <div className='image-card-section1'>
           <img src="https://static-cdn.icons8.com/l/3d/images/cu2_thumb_up_man_1_close-up.webp" alt="no image" className='image-card' />
         </div>
-
       </div>
       <div className='left-moves'>
         <div className='contact-details-section1 mt-4'>
@@ -59,7 +100,6 @@ function Section1() {
             <div className='contact-lists  mb-3 ms-2'>
               <div>
                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><path d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z" /></svg>
-
               </div>
               <div className='mt-1'>
                 +91 8778377119
@@ -382,6 +422,25 @@ function Section1() {
               </div>
             </div>
 
+          </div>
+
+
+        </div>
+
+        <div className='contact-details-section1 mt-5 mb-5'>
+          <div className='common-text mb-4 mt-3'>
+            Working Tools
+          </div>
+
+
+          <div className='row main-cards'>
+            {images?.map((item, index) => {
+              return (
+                <div className='cardsss col-lg-4 mb-3 mt-3'>
+                  <img src={item?.image} alt="no image" className='images' />
+                </div>
+              )
+            })}
           </div>
 
 
