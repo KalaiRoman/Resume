@@ -369,7 +369,7 @@ function Section3() {
 
 
                 <div className='medium-text ms-4 mb-3'>
-                    JEET/JEE  (Web)
+                    NEET/JEE  (Landing Page)
                 </div>
                 <div className='content-experience mt-3 mb-3'>
                     <div className='dotts'>
