@@ -6,12 +6,10 @@ import { Typewriter } from 'react-simple-typewriter'
 function Section2() {
     const handleType = (count) => {
         // access word count number
-        console.log(count)
     }
 
 
     const handleDone = () => {
-        console.log(`Done after 5 loops!`)
     }
     return (
         <>

@@ -436,11 +436,73 @@ function Section1() {
           <div className='row main-cards'>
             {images?.map((item, index) => {
               return (
-                <div className='cardsss col-lg-4 mb-3 mt-3'>
+                <div className='cardsssss col-lg-6 mb-3 mt-3'>
                   <img src={item?.image} alt="no image" className='images' />
                 </div>
               )
             })}
+          </div>
+
+
+        </div>
+
+        <div className='contact-details-section1 mt-5 mb-5'>
+          <div className='common-text mb-4 mt-3'>
+            What I Offer
+          </div>
+
+
+          <div>
+            <div className='mt-3 '>
+              <div className='contact-lists'>
+                <div>
+                  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512"><path d="M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z" /></svg>
+                </div>
+                <div>
+                  <div className='mb-2 college-text'>
+                    Web Developement
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <div>
+            <div className='mt-3 '>
+              <div className='contact-lists'>
+                <div>
+                  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512"><path d="M80 0C44.7 0 16 28.7 16 64V448c0 35.3 28.7 64 64 64H304c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64H80zm80 432h64c8.8 0 16 7.2 16 16s-7.2 16-16 16H160c-8.8 0-16-7.2-16-16s7.2-16 16-16z" /></svg>
+                </div>
+                <div>
+                  <div className='mb-2 college-text'>
+                    App Developement
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+
+          <div>
+            <div className='mt-3 '>
+              <div className='contact-lists'>
+                <div>
+                  <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512"><path d="M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z" /></svg>
+
+                </div>
+                <div>
+                  <div className='mb-2 college-text'>
+                    Nodejs Developement
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
           </div>
 
 

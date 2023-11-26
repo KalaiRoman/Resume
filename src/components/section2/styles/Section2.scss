@@ -10,43 +10,37 @@
     justify-content: center;
     .name {
         font-size: 3.5rem;
+        font-weight: 600;
     }
     .domain-name {
         font-size: 1.4rem;
         display: flex;
-        gap:10px;
-        @include xsBreakPoint
-        {
+        gap: 10px;
+        @include xsBreakPoint {
             flex-direction: column;
             align-items: center;
         }
     }
 }
 
-
-.about-text
-{
+.about-text {
     color: #696984;
     width: 100%;
     padding-left: 3%;
     line-height: 1.6;
-    @include xsBreakPoint
-    {
+    @include xsBreakPoint {
         padding: 0px 20px;
         line-height: 1.8;
     }
-    @include smBreakPoint
-    {
+    @include smBreakPoint {
         padding: 0px 20px;
         line-height: 1.8;
     }
-    @include lgBreakPoint
-    {
+    @include lgBreakPoint {
         padding: 0px 15px;
         line-height: 1.8;
     }
-    @include xlBreakPoint
-    {
+    @include xlBreakPoint {
         padding: 0px 20px;
         line-height: 1.8;
     }
