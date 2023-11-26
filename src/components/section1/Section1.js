@@ -436,7 +436,7 @@ function Section1() {
           <div className='row main-cards'>
             {images?.map((item, index) => {
               return (
-                <div className='cardsssss col-lg-6 mb-3 mt-3'>
+                <div className='cardsssss col-lg-4 mb-3 mt-3'>
                   <img src={item?.image} alt="no image" className='images' />
                 </div>
               )
