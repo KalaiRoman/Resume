@@ -4,7 +4,7 @@ import { Col, Row } from 'react-bootstrap';
 import { Typewriter } from 'react-simple-typewriter'
 import mark from '../../assests/Group 11.png'
 
-import nodejs from '../../assests/nodejs.png';
+import nodejs from '../../assests/thunder.png';
 import github from '../../assests/github.png';
 import Gitlab from '../../assests/gitlab.png';
 import vscode from '../../assests/vscode.png';
