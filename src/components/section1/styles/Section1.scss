@@ -167,3 +167,15 @@
 .box1:hover {
     transform: translateY(-12px) rotate(360deg);
 }
+
+.link {
+    border-bottom: 1px solid #23bdee;
+    transition: 2s;
+   
+}
+
+.link:hover
+{
+    transform: scale(1.1);
+    color: #23bdee;
+}
