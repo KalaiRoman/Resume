@@ -11,6 +11,8 @@ import vscode from '../../assests/vscode.png';
 import postman from '../../assests/postman.png';
 import android from '../../assests/android.png';
 import figma from '../../assests/figma.png';
+import mongoodb from '../../assests/mongoodb.png';
+
 
 
 function Section1() {
@@ -30,6 +32,10 @@ function Section1() {
       id: 2,
       image: nodejs,
 
+    },
+    {
+      id: 7,
+      image: mongoodb
     },
     {
       id: 3,
@@ -62,6 +68,10 @@ function Section1() {
 
       <div className='d-block d-md-none'>
         <div className='section2-main'>
+          <div className='small-text'>
+            Hi I'am
+            <div className='hand'>👋</div>
+          </div>
           <div className='name'>
             KALAISURYA
           </div>
@@ -72,7 +82,7 @@ function Section1() {
                 words={['Reactjs 😃', 'Nextjs 😃', 'ReactNative 😃', 'Nodejs 😃']}
                 loop={5}
                 cursor
-                cursorStyle='_'
+                cursorStyle='*'
                 typeSpeed={70}
                 deleteSpeed={50}
                 delaySpeed={1000}
@@ -236,7 +246,7 @@ function Section1() {
                     {/* <img src={mark} alt="no image" className='tick' /> */}
                   </div>
                   <div>
-                    Redux
+                    Redux Toolkit
                   </div>
                 </div>
               </Col>
@@ -271,6 +281,31 @@ function Section1() {
                   </div>
                   <div>
                     Nodejs
+                  </div>
+                </div>
+              </Col>
+            </Row>
+          </div>
+
+          <div className='p-1 mt-2 mb-2'>
+            <Row>
+              <Col>
+                <div className='skill-card'>
+                  <div className='image-section-skill-card'>
+                    {/* <img src={mark} alt="no image" className='tick' /> */}
+                  </div>
+                  <div>
+                    MongooDB
+                  </div>
+                </div>
+              </Col>
+              <Col>
+                <div className='skill-card'>
+                  <div className='image-section-skill-card'>
+                    {/* <img src={mark} alt="no image" className='tick' /> */}
+                  </div>
+                  <div>
+                    RESTful APIs
                   </div>
                 </div>
               </Col>
@@ -441,7 +476,7 @@ function Section1() {
               </div>
               <div>
                 <div className='mb-2 college-text'>
-                  Telungu
+                  Telugu
                 </div>
 
               </div>

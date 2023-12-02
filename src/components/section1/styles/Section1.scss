@@ -171,6 +171,10 @@
 .link {
     border-bottom: 1px solid #23bdee;
     transition: 2s;
+    @include xsBreakPoint
+    {
+        font-size: 0.820rem;
+    }
    
 }
 

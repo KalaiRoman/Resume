@@ -174,7 +174,7 @@ function Section3() {
 
 
                 <div className='medium-text ms-4'>
-                    LMS (Learning Managent System)
+                    LMS (Learning Managent System (End User))
                 </div>
                 <div>
 
@@ -387,6 +387,31 @@ function Section3() {
                                 HTML and CSS, Bootstrap, Responsive Web Design, Create the necessary components, such as headers, sections, and footers.
                                 Version Control (Github), Utilize CSS or a CSS-in-JS solution to style your components and achieve the desired visual appearance.
                                 pages is responsive to different screen sizes and devices. Use media queries to adjust the layout and styling as needed.
+                            </div>
+                        </div>
+
+
+
+                    </div>
+                </div>
+
+                <div className='medium-text ms-4 mb-3'>
+                    CDP360 (Landing Page)
+                </div>
+                <div className='content-experience mt-3 mb-3'>
+                    <div className='dotts'>
+                    </div>
+                    <div className='right-experience'>
+
+                        Technical Skills:
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                HTML and CSS, Bootstrap, Responsive Web Design, Create the necessary components, such as headers, sections, and footers.
+                                , Utilize CSS or a CSS-in-JS solution to style your components and achieve the desired visual appearance.
                             </div>
                         </div>
 

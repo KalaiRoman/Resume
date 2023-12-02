@@ -16,6 +16,10 @@ function Section2() {
             <div className='d-none d-md-block'>
                 <div className='section2-main'>
 
+                    <div className='small-text'>
+                        Hi I'am
+                        <div className='hand'>👋</div>
+                    </div>
                     <div className='name'>
                         KALAISURYA
                     </div>
@@ -27,7 +31,7 @@ function Section2() {
                                 words={['Reactjs 😃', 'Nextjs 😃', 'ReactNative 😃', 'Nodejs 😃']}
                                 loop={5}
                                 cursor
-                                cursorStyle='_'
+                                cursorStyle='*'
                                 typeSpeed={70}
                                 deleteSpeed={50}
                                 delaySpeed={1000}

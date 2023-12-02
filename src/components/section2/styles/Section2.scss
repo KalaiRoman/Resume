@@ -45,3 +45,30 @@
         line-height: 1.8;
     }
 }
+
+.small-text {
+    color: #696984;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+.hand {
+    font-size: 1.4rem;
+    padding-left: 10px;
+    transition: 2s;
+    animation: hands 3s ease-in infinite;
+}
+
+@keyframes hands {
+    0% {
+        transform: rotate(-20deg);
+    }
+    50% {
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}
