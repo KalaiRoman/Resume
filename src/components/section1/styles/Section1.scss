@@ -171,15 +171,12 @@
 .link {
     border-bottom: 1px solid #23bdee;
     transition: 2s;
-    @include xsBreakPoint
-    {
-        font-size: 0.820rem;
+    @include xsBreakPoint {
+        font-size: 0.82rem;
     }
-   
 }
 
-.link:hover
-{
+.link:hover {
     transform: scale(1.1);
     color: #23bdee;
 }
