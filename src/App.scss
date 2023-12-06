@@ -53,6 +53,7 @@
             z-index: 989898 !important;
             @include xsBreakPoint {
                 width: 100%;
+                padding-bottom: 10%;
             }
             @include smBreakPoint {
                 width: 100%;

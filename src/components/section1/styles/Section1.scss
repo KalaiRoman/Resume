@@ -128,7 +128,16 @@
 .cardsssss {
     width: 20%;
     @include xsBreakPoint {
-        width: 50%;
+        width: 50% !important;
+    }
+    @include smBreakPoint {
+        width: 30% !important;
+    }
+    @include lgBreakPoint {
+        width: 50% !important;
+    }
+    @include xlBreakPoint {
+        width: 33% !important;
     }
 }
 
@@ -174,9 +183,34 @@
     @include xsBreakPoint {
         font-size: 0.82rem;
     }
+    @include xlBreakPoint {
+        font-size: 0.83rem;
+    }
 }
 
 .link:hover {
     transform: scale(1.1);
     color: #23bdee;
+}
+
+.dowload-button-resume {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid #4ee381;
+    width: 100%;
+    padding: 10px 0px;
+    justify-content: center;
+    border-radius: 10px;
+    color: orange !important;
+}
+
+.pdf {
+    color: orange !important;
+    display: flex;
+    gap: 10px;
+}
+
+.dowload-button-resume:hover {
+    border: 2px solid #23bdee;
 }
