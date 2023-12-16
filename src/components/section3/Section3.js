@@ -101,7 +101,7 @@ function Section3() {
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                                To integrate PayPal and Stripe for payment
+                                Integrated PayPal and Stripe for payment
                             </div>
                         </div>
 
@@ -111,7 +111,7 @@ function Section3() {
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                                To integrate Social Integaration for Google and Facebook and LinkedIn
+                                Integrated Social Integaration for Google and Facebook and LinkedIn
                             </div>
                         </div>
 
@@ -120,7 +120,7 @@ function Section3() {
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                                To integrate Google Map Postal Code
+                                Integrated Google Map Postal Code
                             </div>
                         </div>
 
@@ -130,7 +130,7 @@ function Section3() {
                 </div>
 
                 <div className='medium-text ms-4'>
-                    Womeyn Landing Page
+                    Womeyn
                 </div>
 
 
@@ -208,7 +208,7 @@ function Section3() {
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                                To integrate RazorPay for payment
+                            Integrated RazorPay for payment
                             </div>
                         </div>
                     </div>
@@ -244,7 +244,7 @@ function Section3() {
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                                To integrate Api's in Graphql
+                                Integrated Api's in Graphql
                             </div>
                         </div>
 
@@ -284,7 +284,7 @@ function Section3() {
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                                To integrate Api's in Nodejs and Social Share
+                            Integrated Api's in Nodejs and Social Share
                             </div>
                         </div>
 
@@ -323,7 +323,7 @@ function Section3() {
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                                To integarate Api's in ( Python ).
+                                Integarated Api's in ( Python ).
                             </div>
                         </div>
 
@@ -340,7 +340,7 @@ function Section3() {
 
 
                 <div className='medium-text ms-4'>
-                    Eternosoft Landing Page
+                    Eternosoft 
                 </div>
 
                 <div className='content-experience mt-3 mb-3'>
@@ -369,7 +369,7 @@ function Section3() {
 
 
                 <div className='medium-text ms-4 mb-3'>
-                    NEET/JEE  (Landing Page)
+                    NEET/JEE 
                 </div>
                 <div className='content-experience mt-3 mb-3'>
                     <div className='dotts'>
@@ -396,7 +396,7 @@ function Section3() {
                 </div>
 
                 <div className='medium-text ms-4 mb-3'>
-                    CDP360 (Landing Page)
+                    CDP360 
                 </div>
                 <div className='content-experience mt-3 mb-3'>
                     <div className='dotts'>
