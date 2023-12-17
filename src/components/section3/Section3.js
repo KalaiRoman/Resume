@@ -208,9 +208,50 @@ function Section3() {
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                            Integrated RazorPay for payment
+                                Integrated RazorPay for payment
                             </div>
                         </div>
+                    </div>
+                </div>
+
+
+                <div className='medium-text ms-4'>
+                    Mock Test (NEET)
+                </div>
+                <div>
+
+                </div>
+
+                <div className='content-experience mt-3 mb-3'>
+                    <div className='dotts'>
+                    </div>
+                    <div className='right-experience'>
+
+
+                        Technical Skills:
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                React.js for ( B2C ), JavaScript, HTML and Sass, Bootstrap, Responsive Web Design, State Management (Redux and Redux Toolkit), Front-End Build Tools (Webpack), Version Control (Github), Unit and Integration Testing, SEO Optimization, Performance Optimization,
+                                pages is responsive to different screen sizes and devices. Use media queries to adjust the layout and styling as needed.
+
+                            </div>
+                        </div>
+
+
+
+
+                        {/* <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Integrated RazorPay for payment
+                            </div>
+                        </div> */}
                     </div>
                 </div>
 
@@ -284,7 +325,7 @@ function Section3() {
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                            Integrated Api's in Nodejs and Social Share
+                                Integrated Api's in Nodejs and Social Share
                             </div>
                         </div>
 
@@ -340,7 +381,7 @@ function Section3() {
 
 
                 <div className='medium-text ms-4'>
-                    Eternosoft 
+                    Eternosoft
                 </div>
 
                 <div className='content-experience mt-3 mb-3'>
@@ -369,7 +410,7 @@ function Section3() {
 
 
                 <div className='medium-text ms-4 mb-3'>
-                    NEET/JEE 
+                    NEET/JEE
                 </div>
                 <div className='content-experience mt-3 mb-3'>
                     <div className='dotts'>
@@ -396,7 +437,7 @@ function Section3() {
                 </div>
 
                 <div className='medium-text ms-4 mb-3'>
-                    CDP360 
+                    CDP360
                 </div>
                 <div className='content-experience mt-3 mb-3'>
                     <div className='dotts'>
