@@ -272,7 +272,7 @@ function Section1() {
                     {/* <img src={mark} alt="no image" className='tick' /> */}
                   </div>
                   <div>
-                    Javascript
+                    Javascript (ES6)
                   </div>
                 </div>
               </Col>
@@ -385,6 +385,20 @@ function Section1() {
               </Col>
             </Row>
           </div>
+          <div>
+            <Row>
+            <Col>
+                <div className='skill-card'>
+                  <div className='image-section-skill-card'>
+                    {/* <img src={mark} alt="no image" className='tick' /> */}
+                  </div>
+                  <div>
+                    React Bootstrap
+                  </div>
+                </div>
+              </Col>
+            </Row>
+          </div>
 
           <div className='p-1 mb-2 mt-2'>
             <Row>
@@ -419,7 +433,7 @@ function Section1() {
                     {/* <img src={mark} alt="no image" className='tick' /> */}
                   </div>
                   <div>
-                    Responsive Ui Designs
+                    Responsive Web Design
                   </div>
                 </div>
               </Col>
