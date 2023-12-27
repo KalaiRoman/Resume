@@ -307,7 +307,7 @@ function Section1() {
                     {/* <img src={mark} alt="no image" className='tick' /> */}
                   </div>
                   <div>
-                    RESTful APIs
+                    RESTful JSON APIs
                   </div>
                 </div>
               </Col>
@@ -345,7 +345,7 @@ function Section1() {
                     {/* <img src={mark} alt="no image" className='tick' /> */}
                   </div>
                   <div>
-                    HTML
+                    HTML 5
                   </div>
                 </div>
               </Col>
@@ -355,7 +355,7 @@ function Section1() {
                     {/* <img src={mark} alt="no image" className='tick' /> */}
                   </div>
                   <div>
-                    CSS
+                    CSS3
                   </div>
                 </div>
               </Col>
@@ -387,7 +387,7 @@ function Section1() {
           </div>
           <div>
             <Row>
-            <Col>
+              <Col>
                 <div className='skill-card'>
                   <div className='image-section-skill-card'>
                     {/* <img src={mark} alt="no image" className='tick' /> */}
@@ -422,6 +422,22 @@ function Section1() {
                   </div>
                 </div>
               </Col>
+            </Row>
+          </div>
+
+          <div className='p-1 mb-2 mt-2'>
+            <Row>
+              <Col>
+                <div className='skill-card'>
+                  <div className='image-section-skill-card'>
+                    {/* <img src={mark} alt="no image" className='tick' /> */}
+                  </div>
+                  <div>
+                    Node.js
+                  </div>
+                </div>
+              </Col>
+              
             </Row>
           </div>
 
