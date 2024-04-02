@@ -71,7 +71,7 @@ function Section3() {
             </div>
             <div>
                 <div className='medium-text ms-4'>
-                    Womeyn E-Commerce <span className='light-text'>(Seller and End User)</span>
+                    Womeyn E-Commerce <span className='light-text'>(Admin, Seller and End User)</span>
                 </div>
 
 
@@ -104,7 +104,7 @@ function Section3() {
                             </div>
                             <div className='right-experience'>
 
-                                Nextjs for ( End user in B2C ) and React.js for ( Seller ), JavaScript, HTML and Sass, Bootstrap, Responsive Web Design, State Management (ContextApi and Redux), Front-End Build Tools (Webpack), Version Control (Gitlab and Github), Unit and Integration Testing, SEO Optimization, Performance Optimization,
+                                Responsive Web Design, State Management, Unit and Integration Testing, SEO Optimization,Performance Optimization,
 
                             </div>
                         </div>
@@ -137,61 +137,21 @@ function Section3() {
                             </div>
                             <div className='right-experience'>
                                 Integrated Google Map Postal Code
+                            </div>
+                        </div>
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Integrated OTP verification for GUNI SMS.
                             </div>
                         </div>
 
 
 
                     </div>
-                    {/* <div className='right-experience'>
 
-
-                        Technical Skills:
-
-                        <div className='mt-3 mb-2 tech-skill-list'>
-                            <div className='dotts-green'>
-                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
-                            </div>
-                            <div className='right-experience'>
-                                Nextjs for ( End user in B2C ) and React.js for ( Seller ), JavaScript, HTML and Sass, Bootstrap, Responsive Web Design, State Management (ContextApi and Redux), Front-End Build Tools (Webpack), Version Control (Gitlab and Github), Unit and Integration Testing, SEO Optimization, Performance Optimization,
-
-                            </div>
-                        </div>
-
-
-
-
-                        <div className='mt-3 mb-2 tech-skill-list'>
-                            <div className='dotts-green'>
-                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
-                            </div>
-                            <div className='right-experience'>
-                                Integrated PayPal and Stripe for payment
-                            </div>
-                        </div>
-
-
-                        <div className='mt-3 mb-2 tech-skill-list'>
-                            <div className='dotts-green'>
-                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
-                            </div>
-                            <div className='right-experience'>
-                                Integrated Social Integaration for Google and Facebook and LinkedIn
-                            </div>
-                        </div>
-
-                        <div className='mt-3 mb-2 tech-skill-list'>
-                            <div className='dotts-green'>
-                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
-                            </div>
-                            <div className='right-experience'>
-                                Integrated Google Map Postal Code
-                            </div>
-                        </div>
-
-
-
-                    </div> */}
                 </div>
 
 
@@ -232,8 +192,8 @@ function Section3() {
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                                React.js for ( B2C ), JavaScript, HTML and Sass, Bootstrap, Responsive Web Design, State Management (Redux and Redux Toolkit), Front-End Build Tools (Webpack), Version Control (Github), Unit and Integration Testing, SEO Optimization, Performance Optimization,
-                                pages is responsive to different screen sizes and devices. Use media queries to adjust the layout and styling as needed.
+                                Responsive Web Design, State Management (Redux and Redux Toolkit), Unit and Integration Testing, SEO Optimization, Performance Optimization,
+                                pages is responsive to different screen sizes and devices.
 
 
                             </div>
@@ -254,7 +214,7 @@ function Section3() {
 
 
                 <div className='medium-text ms-4'>
-                    Mock Test ( NEET )
+                    Mock Test ( NEET (Online) )
                 </div>
                 <div>
 
@@ -290,18 +250,35 @@ function Section3() {
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                                React.js , JavaScript ES6, HTML and Sass, Bootstrap, Responsive Web Design, State Management (Redux and Redux Toolkit), Front-End Build Tools (Webpack), Version Control (Gitlab), Unit and Integration Testing,  Performance Optimization,
+                                Responsive Web Design, State Management (Redux and Redux Toolkit), Unit and Integration Testing,  Performance Optimization.
                             </div>
                         </div>
-
-                        {/* <div className='mt-3 mb-2 tech-skill-list'>
+                        <div className='mt-3 mb-2 tech-skill-list'>
                             <div className='dotts-green'>
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
                             </div>
                             <div className='right-experience'>
-                                Integrated RazorPay for payment
+                                Reuasable Component handled. Restricted for page navigation and time managements and interceptor.
                             </div>
-                        </div> */}
+                        </div>
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Integarated for RazorPaypayment handled.
+                            </div>
+                        </div>
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Integarated for OTP Verification handled.
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
 
@@ -364,6 +341,77 @@ function Section3() {
                 </div>
 
 
+                <div className='medium-text ms-4'>
+                    Mock Test ( JEE (Online) )
+                </div>
+                <div>
+
+                </div>
+
+                <div className='content-experience mt-3 mb-3'>
+                    <div className='dotts'>
+                    </div>
+                    <div className='right-experience'>
+
+
+                        Tools and Languages Used:
+
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+
+                                <div className='language-texts'>
+                                    Reactjs, Redux Toolkit, HTML, SASS, CSS, Javascript, Bootstrap, ReactBootstrap, GitLab, CICD
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div className='response-text'>Responsibilities : </div>
+
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Responsive Web Design, State Management (Redux and Redux Toolkit), Unit and Integration Testing,  Performance Optimization.
+                            </div>
+                        </div>
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Reuasable Component handled. Restricted for page navigation and time managements and interceptor.
+                            </div>
+                        </div>
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Integarated for RazorPaypayment handled.
+                            </div>
+                        </div>
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Integarated for OTP Verification handled.
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+
+
+
 
 
 
@@ -423,6 +471,69 @@ function Section3() {
                     </div>
                 </div>
 
+
+
+                <div className='medium-text ms-4'>
+                    Blog App
+                </div>
+                <div>
+
+                </div>
+
+                <div className='content-experience mt-3 mb-3'>
+                    <div className='dotts'>
+                    </div>
+                    <div className='right-experience'>
+
+
+                        Tools and Languages Used:
+
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+
+                                <div className='language-texts'>
+                                    Reactjs, Redux Toolkit, HTML, SASS, CSS, Javascript, Bootstrap, ReactBootstrap, GitLab, CICD
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div className='response-text'>Responsibilities : </div>
+
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Responsive Web Design, State Management (Redux and Redux Toolkit), Unit and Integration Testing,  Performance Optimization.
+                            </div>
+                        </div>
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Reuasable Component handled. Restricted for page navigation and time managements and interceptor.
+                            </div>
+                        </div>
+
+                        <div className='mt-3 mb-2 tech-skill-list'>
+                            <div className='dotts-green'>
+                                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" /></svg>
+                            </div>
+                            <div className='right-experience'>
+                                Integarated for OTP Verification and then Email send implemented and then comments and like handled.
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
 
 
                 <div className='medium-text ms-4'>

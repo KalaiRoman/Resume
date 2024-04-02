@@ -24,7 +24,7 @@ function Section2() {
                         KALAISURYA
                     </div>
                     <div className='domain-name '>
-                        Frontend Developer
+                        Full Stack Developer
                         <span style={{ color: 'orange', fontWeight: 'bold' }}>(
 
                             <Typewriter
@@ -52,7 +52,7 @@ function Section2() {
                     About Me
                 </div>
                 <div className='about-text'>
-                    3+ Years experience Reactjs Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-reponsive user interface components by deploying React concepts. Proficient in translating designs & wireframes into high-quality code, and writing application interface code via javascript and Reactjs workflows. Adept at monitoring & maintaning frontend performance and troubleshooting & debugging the same to bloster overall performance.
+                    4 Years experience Reactjs Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-reponsive user interface components by deploying React concepts. Proficient in translating designs & wireframes into high-quality code, and writing application interface code via javascript and Reactjs workflows. Adept at monitoring & maintaning frontend performance and troubleshooting & debugging the same to bloster overall performance.
                 </div>
                 <div>
                     {/* Front-end developer with 3 years of experience in building responsive and user-friendly web applications using React.js. Proven track record in creating efficient and visually appealing interfaces. Adept at collaborating with cross-functional teams to deliver high-quality software. */}

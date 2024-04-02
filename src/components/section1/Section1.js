@@ -78,7 +78,7 @@ function Section1() {
             KALAISURYA
           </div>
           <div className='domain-name'>
-            Frontend Developer
+            Full Stack Developer
             <span style={{ color: 'orange', fontWeight: 'bold' }}>(
               <Typewriter
                 words={['Reactjs 😃', 'Nextjs 😃', 'ReactNative 😃', 'Nodejs 😃']}
@@ -437,7 +437,7 @@ function Section1() {
                   </div>
                 </div>
               </Col>
-              
+
             </Row>
           </div>
 
@@ -561,7 +561,7 @@ function Section1() {
             </div>
           </div>
 
-          <div>
+          {/* <div>
             <div className='mt-3 '>
               <div className='contact-lists'>
                 <div>
@@ -576,7 +576,7 @@ function Section1() {
               </div>
 
             </div>
-          </div>
+          </div> */}
 
 
           <div>
