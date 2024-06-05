@@ -116,9 +116,9 @@ function Section1() {
               </div>
               <div className='mt-1'>
                 <div onClick={() => {
-                  window.open('https://kalaiportfolio-3fz5.vercel.app/')
+                  window.open('https://kalaiportfolio.vercel.app/')
                 }} className='link'>
-                  https://kalaiportfolio-3fz5.vercel.app/
+                  https://kalaiportfolio.vercel.app/
                 </div>
               </div>
             </div>
@@ -619,7 +619,7 @@ function Section1() {
               </div>
             </div> */}
 
-            <a href={pdf} download="Kalai-resume.pdf" className='pdf'>
+            <a href={pdf} download="Kalaisurya.pdf" className='pdf'>
               <div className='dowload-button-resume mb-4'>
 
                 <div>
